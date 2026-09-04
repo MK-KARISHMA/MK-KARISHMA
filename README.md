@@ -1,4 +1,12 @@
-<h1># Hi 👋, I'm **MK Karishma**  ### ☕ Java Full Stack Developer | 🤖 AI Engineer | 🏗️ Software Engineering Enthusiast  I'm on a continuous journey to become a **production-ready Java Full Stack + AI Engineer**, building strong foundations in Computer Science and progressing toward scalable, secure, distributed, and AI-powered systems.  I believe in:  **Learn → Build → Break → Debug → Improve → Scale → Repeat.**</h1>
+<# Hi 👋, I'm **MK Karishma**
+
+### ☕ Java Full Stack Developer | 🤖 AI Engineer | 🏗️ Software Engineering Enthusiast
+
+I'm on a continuous journey to become a **production-ready Java Full Stack + AI Engineer**, building strong foundations in Computer Science and progressing toward scalable, secure, distributed, and AI-powered systems.
+
+I believe in:
+
+**Learn → Build → Break → Debug → Improve → Scale → Repeat.**
 <p>A passionate frontend dev☕ Java Full Stack Developer | 🤖 AI Engineer | 🏗️ Building Scalable & Production-Ready. Systemseloper from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
