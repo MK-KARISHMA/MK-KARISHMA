@@ -5,14 +5,14 @@
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+MK+Karishma"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+MK+Karishma"
 alt="Hi, I'm MK Karishma"
 />
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=7F00FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+%E2%98%95;AI+Engineer+%F0%9F%A4%96;Software+Engineering+Enthusiast+%F0%9F%8F%97%EF%B8%8F"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=9333EA&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+%E2%98%95;AI+Engineer+%F0%9F%A4%96;Software+Engineering+Enthusiast+%F0%9F%8F%97%EF%B8%8F"
 alt="Professional Role Animation"
 />
 
@@ -44,18 +44,14 @@ I believe in:
 Learn → Build → Break → Debug → Improve → Scale → Repeat.
 </h3>
 
-<br clear="right"/>
-
 <br>
 
-<div align="center">
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=600&color=00C9FF&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=600&color=6D28D9&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
 alt="Engineering Mindset Animation"
 />
 
-</div>
+<br clear="right"/>
 
 ---
 
@@ -64,7 +60,7 @@ alt="Engineering Mindset Animation"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Languages+%26+Tools;Technologies+I+Use;Building+with+Modern+Technology"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=7C3AED&center=true&vCenter=true&width=700&lines=Languages+%26+Tools;Technologies+I+Use;Building+with+Modern+Technology"
 alt="Languages and Tools Animation"
 />
 
@@ -224,6 +220,17 @@ alt="Linux" width="45" height="45"/>
 
 </p>
 
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Spring+%E2%80%A2+React+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS"
+alt="Technology Stack Animation"
+/>
+
+</div>
+
 ---
 
 ## 🤖 AI Engineering
@@ -231,7 +238,7 @@ alt="Linux" width="45" height="45"/>
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=600&color=FF6F00&center=true&vCenter=true&width=850&lines=Generative+AI;LLMs;Prompt+Engineering;RAG;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=600&color=9333EA&center=true&vCenter=true&width=850&lines=Generative+AI;LLMs;Prompt+Engineering;RAG;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
 alt="AI Engineering Animation"
 />
 
@@ -256,7 +263,7 @@ alt="AI Engineering Animation"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"
+src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=4"
 width="80%"
 alt="Animated Divider"
 />
@@ -270,7 +277,7 @@ alt="Animated Divider"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=7F00FF&center=true&vCenter=true&width=800&lines=Java+Applications;Spring+Boot+REST+APIs;Secure+Systems;Microservices;Event-Driven+Systems;React+Applications;Cloud-Ready+Applications;AI-Powered+Applications;Production-Level+Distributed+Systems"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=6D28D9&center=true&vCenter=true&width=800&lines=Java+Applications;Spring+Boot+REST+APIs;Secure+Systems;Microservices;Event-Driven+Systems;React+Applications;Cloud-Ready+Applications;AI-Powered+Applications;Production-Level+Distributed+Systems"
 alt="What I'm Building Animation"
 />
 
@@ -311,8 +318,8 @@ Documenting my journey from Java fundamentals to production-grade full-stack and
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+in+Public;Building+in+Public;Sharing+the+Journey"
-alt="Recent Posts Animation"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=700&lines=Learning+in+Public;Building+in+Public;Sharing+the+Journey"
+alt="Journey Animation"
 />
 
 </div>
@@ -335,7 +342,7 @@ alt="LinkedIn"/>
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=00C9FF&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%91%8B;Let's+Learn+Together;Let's+Build+Together;Let's+Grow+Together"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=9333EA&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%91%8B;Let's+Learn+Together;Let's+Build+Together;Let's+Grow+Together"
 alt="Connect Animation"
 />
 
@@ -355,7 +362,7 @@ consider supporting me. ❤️
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=F7971E&center=true&vCenter=true&width=750&lines=Every+Project+Teaches+Something;Every+Bug+Makes+Me+Better;Every+Challenge+Builds+Experience;Keep+Learning;Keep+Building"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=6D28D9&center=true&vCenter=true&width=750&lines=Every+Project+Teaches+Something;Every+Bug+Makes+Me+Better;Every+Challenge+Builds+Experience;Keep+Learning;Keep+Building"
 alt="Motivational Animation"
 />
 
@@ -363,14 +370,10 @@ alt="Motivational Animation"
 
 ---
 
-<!-- ========================= -->
-<!--          FOOTER            -->
-<!-- ========================= -->
-
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Thanks+for+Visiting+My+Profile+%F0%9F%91%8B;Keep+Learning.;Keep+Building.;Keep+Engineering.;Never+Stop+Growing."
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=Thanks+for+Visiting+My+Profile+%F0%9F%91%8B;Keep+Learning.;Keep+Building.;Keep+Engineering.;Never+Stop+Growing."
 alt="Footer Animation"
 />
 
@@ -381,7 +384,7 @@ alt="Footer Animation"
 <br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F00FF,100:36BCF7&height=120&section=footer&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer&animation=fadeIn"
 width="100%"
 alt="Animated Footer"
 />
