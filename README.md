@@ -12,6 +12,11 @@
 🏗️ Software Engineering Enthusiast
 </h3>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Scalable+Systems;Building+Secure+Systems;Building+Distributed+Systems;Building+AI-Powered+Systems;Java+Full+Stack+%2B+AI+Engineering"
+alt="Typing Animation"/>
+
 </div>
 
 <!-- ========================= -->
@@ -40,11 +45,23 @@ I believe in:
 Learn → Build → Break → Debug → Improve → Scale → Repeat.
 </h3>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=7F00FF&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
+alt="Engineering Mindset Animation"/>
+
 <br clear="right"/>
 
 ---
 
 ## 🚀 Languages & Tools I Use
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Technologies+I+Use;Tools+I+Practice;Building+with+Modern+Technology"
+alt="Technology Animation"/>
+
+</div>
 
 <p align="left">
 
@@ -200,9 +217,25 @@ alt="Linux" width="45" height="45"/>
 
 </p>
 
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=00C9FF&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Spring+%E2%80%A2+React+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS"
+alt="Stack Animation"/>
+
+</div>
+
 ---
 
 ## 🤖 AI Engineering
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=FF6F00&center=true&vCenter=true&width=800&lines=Generative+AI;LLMs;Prompt+Engineering;RAG;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
+alt="AI Engineering Animation"/>
+
+</div>
 
 <p>
 
@@ -218,66 +251,37 @@ alt="Linux" width="45" height="45"/>
 
 </p>
 
----
-
-## 🏗️ What I'm Building
-
-- ☕ Java Full Stack Applications
-- 🚀 Spring Boot REST APIs
-- 🔐 Secure Authentication & Authorization
-- 🧩 Microservices
-- 📨 Event-Driven Systems
-- ⚡ Kafka & RabbitMQ Applications
-- 🚀 Redis-Based Caching
-- ⚛️ React Applications
-- ☁️ Cloud-Ready Applications
-- 🤖 AI-Powered Applications
-- 🔎 RAG-Based Systems
-- 🤝 AI Agent Applications
-- 🏗️ Production-Level Distributed Systems
-
----
-
-## 📝 Recent Posts
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/mkkarishma-softwaredeveloper" target="_blank">
-<strong>My Java Full Stack + AI Engineering Journey</strong>
-</a>
 <br>
-Documenting my journey from Java fundamentals to production-grade full-stack and AI engineering.
-</li>
-
-</ul>
-
----
-
-## ⚡ Where to Find Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/mkkarishma-softwaredeveloper" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-MK%20Karishma-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white"
-alt="LinkedIn"/>
-</a>
-
-</p>
-
----
-
-## ☕ Support My Journey
-
-<p>
-If my projects, notes, or learning journey help you,
-consider supporting me. ❤️
-</p>
-
----
 
 <div align="center">
 
-### 🚀 Learn • Build • Break • Debug • Improve • Scale
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"
+width="80%"
+alt="Animated Divider"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+```text
+        🤖 AI
+         │
+         ▼
+       🧠 LLM
+         │
+         ▼
+      🔎 RAG
+         │
+         ▼
+   📚 VECTOR DB
+         │
+         ▼
+    🤝 AI AGENT
+         │
+         ▼
+    🔧 TOOLS
+         │
+         ▼
+   ☕ JAVA BACKEND
