@@ -4,18 +4,17 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm <strong>MK Karishma</strong></h1>
-
-<h3>
-☕ Java Full Stack Developer &nbsp;|&nbsp;
-🤖 AI Engineer &nbsp;|&nbsp;
-🏗️ Software Engineering Enthusiast
-</h3>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+MK+Karishma"
+alt="Hi, I'm MK Karishma"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Scalable+Systems;Building+Secure+Systems;Building+Distributed+Systems;Building+AI-Powered+Systems;Java+Full+Stack+%2B+AI+Engineering"
-alt="Typing Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=7F00FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+%E2%98%95;AI+Engineer+%F0%9F%A4%96;Software+Engineering+Enthusiast+%F0%9F%8F%97%EF%B8%8F"
+alt="Professional Role Animation"
+/>
 
 </div>
 
@@ -45,12 +44,18 @@ I believe in:
 Learn → Build → Break → Debug → Improve → Scale → Repeat.
 </h3>
 
+<br clear="right"/>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=7F00FF&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
-alt="Engineering Mindset Animation"/>
+<div align="center">
 
-<br clear="right"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=600&color=00C9FF&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
+alt="Engineering Mindset Animation"
+/>
+
+</div>
 
 ---
 
@@ -58,8 +63,10 @@ alt="Engineering Mindset Animation"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Technologies+I+Use;Tools+I+Practice;Building+with+Modern+Technology"
-alt="Technology Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Languages+%26+Tools;Technologies+I+Use;Building+with+Modern+Technology"
+alt="Languages and Tools Animation"
+/>
 
 </div>
 
@@ -217,23 +224,16 @@ alt="Linux" width="45" height="45"/>
 
 </p>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=00C9FF&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Spring+%E2%80%A2+React+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS"
-alt="Stack Animation"/>
-
-</div>
-
 ---
 
 ## 🤖 AI Engineering
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=FF6F00&center=true&vCenter=true&width=800&lines=Generative+AI;LLMs;Prompt+Engineering;RAG;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
-alt="AI Engineering Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=600&color=FF6F00&center=true&vCenter=true&width=850&lines=Generative+AI;LLMs;Prompt+Engineering;RAG;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
+alt="AI Engineering Animation"
+/>
 
 </div>
 
@@ -255,33 +255,135 @@ alt="AI Engineering Animation"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"
 width="80%"
-alt="Animated Divider"/>
+alt="Animated Divider"
+/>
 
 </div>
+
+---
+
+## 🏗️ What I'm Building
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=7F00FF&center=true&vCenter=true&width=800&lines=Java+Applications;Spring+Boot+REST+APIs;Secure+Systems;Microservices;Event-Driven+Systems;React+Applications;Cloud-Ready+Applications;AI-Powered+Applications;Production-Level+Distributed+Systems"
+alt="What I'm Building Animation"
+/>
+
+</div>
+
+- ☕ Java Full Stack Applications
+- 🚀 Spring Boot REST APIs
+- 🔐 Secure Authentication & Authorization
+- 🧩 Microservices
+- 📨 Event-Driven Systems
+- ⚡ Kafka & RabbitMQ Applications
+- 🚀 Redis-Based Caching
+- ⚛️ React Applications
+- ☁️ Cloud-Ready Applications
+- 🤖 AI-Powered Applications
+- 🔎 RAG-Based Systems
+- 🤝 AI Agent Applications
+- 🏗️ Production-Level Distributed Systems
+
+---
+
+## 📝 Recent Posts
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/mkkarishma-softwaredeveloper" target="_blank">
+<strong>My Java Full Stack + AI Engineering Journey</strong>
+</a>
+<br>
+Documenting my journey from Java fundamentals to production-grade full-stack and AI engineering.
+</li>
+
+</ul>
 
 <br>
 
 <div align="center">
 
-```text
-        🤖 AI
-         │
-         ▼
-       🧠 LLM
-         │
-         ▼
-      🔎 RAG
-         │
-         ▼
-   📚 VECTOR DB
-         │
-         ▼
-    🤝 AI AGENT
-         │
-         ▼
-    🔧 TOOLS
-         │
-         ▼
-   ☕ JAVA BACKEND
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+in+Public;Building+in+Public;Sharing+the+Journey"
+alt="Recent Posts Animation"
+/>
+
+</div>
+
+---
+
+## ⚡ Where to Find Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/mkkarishma-softwaredeveloper" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-MK%20Karishma-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=00C9FF&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%91%8B;Let's+Learn+Together;Let's+Build+Together;Let's+Grow+Together"
+alt="Connect Animation"
+/>
+
+</div>
+
+---
+
+## ☕ Support My Journey
+
+<p>
+If my projects, notes, or learning journey help you,
+consider supporting me. ❤️
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=F7971E&center=true&vCenter=true&width=750&lines=Every+Project+Teaches+Something;Every+Bug+Makes+Me+Better;Every+Challenge+Builds+Experience;Keep+Learning;Keep+Building"
+alt="Motivational Animation"
+/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--          FOOTER            -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Thanks+for+Visiting+My+Profile+%F0%9F%91%8B;Keep+Learning.;Keep+Building.;Keep+Engineering.;Never+Stop+Growing."
+alt="Footer Animation"
+/>
+
+<br><br>
+
+### 🚀 Learn • Build • Break • Debug • Improve • Scale
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F00FF,100:36BCF7&height=120&section=footer&animation=fadeIn"
+width="100%"
+alt="Animated Footer"
+/>
+
+</div>
