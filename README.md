@@ -21,7 +21,7 @@
 <img align="right"
      alt="Female Software Engineer Coding"
      width="380"
-     src="YOUR_GIF_URL_HERE">
+     src="./female_software_engineer_github.gif">
 
 <br>
 
