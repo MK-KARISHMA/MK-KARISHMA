@@ -1,493 +1,414 @@
-<!-- ========================================================= -->
-<!--                    MK KARISHMA README                     -->
-<!-- ========================================================= -->
-
-<!-- ====================== HERO HEADER ====================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:312E81,100:06B6D4&height=220&section=header&text=MK%20KARISHMA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=JAVA%20FULL%20STACK%20%7C%20AI%20ENGINEER&descAlignY=62&descSize=18&descColor=67E8F9" width="100%"/>
-
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+MK+Karishma;Java+Full+Stack+Engineer;AI+Engineer;Software+Engineering+Enthusiast;Building+Production-Ready+Systems"
-  alt="Typing Animation"
-/>
-
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
-  alt="Engineering Philosophy"
-/>
-
-</div>
-
-<br>
-
-<!-- ===================== HERO SECTION ====================== -->
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-## 👋 About Me
-
-I'm on a continuous journey to become a **production-ready Java Full Stack + AI Engineer**, building strong foundations in Computer Science and progressing toward scalable, secure, distributed, and AI-powered systems.
-
-<br>
-
-### 🧠 Engineering Philosophy
+<!-- ========================= -->
+<!--      ANIMATED HEADER       -->
+<!-- ========================= -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build;Break+%E2%86%92+Debug;Improve+%E2%86%92+Scale;Repeat+%E2%99%BB%EF%B8%8F"
-alt="Engineering Philosophy"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B2E1A,100:00C853&height=180&section=header&animation=fadeIn"
+width="100%"
+alt="Animated Emerald Header"
 />
 
 </div>
 
-<br>
-
-> **Build systems that are reliable, scalable, secure and meaningful.**
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img
-  src="./female_software_engineer_github.gif"
-  alt="Female Software Engineer Coding"
-  width="420"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ====================== DIVIDER ========================== -->
+<!-- ========================= -->
+<!--        INTRO SECTION       -->
+<!-- ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:312E81,100:050505&height=3&section=header" width="90%"/>
-
-</div>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+MK+Karishma"
+alt="Hi, I'm MK Karishma"
+/>
 
 <br>
 
-<!-- =================== TECHNOLOGY STACK ==================== -->
-
-<div align="center">
-
-## ⚙️ TECHNOLOGY STACK
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Designing+%E2%80%A2+Developing+%E2%80%A2+Testing+%E2%80%A2+Deploying"
-alt="Technology Stack"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=FFD54F&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+%E2%98%95;AI+Engineer+%F0%9F%A4%96;Software+Engineering+Enthusiast+%F0%9F%8F%97%EF%B8%8F"
+alt="Professional Role Animation"
 />
 
 </div>
 
+<!-- ========================= -->
+<!--          GIF              -->
+<!-- ========================= -->
+
+<img align="right"
+     alt="Female Software Engineer Coding"
+     width="380"
+     src="./female_software_engineer_github.gif">
+
 <br>
 
-### ☕ Languages
+<p>
+I'm on a continuous journey to become a
+<strong>production-ready Java Full Stack + AI Engineer</strong>,
+building strong foundations in Computer Science and progressing toward
+scalable, secure, distributed, and AI-powered systems.
+</p>
 
-<p align="center">
+<p>
+I believe in:
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<h3>
+Learn → Build → Break → Debug → Improve → Scale → Repeat.
+</h3>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=600&color=00C853&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve+%E2%86%92+Scale+%E2%86%92+Repeat"
+alt="Engineering Mindset Animation"
+/>
+
+</div>
+
+<br clear="right"/>
+
+---
+
+## 🚀 Languages & Tools I Use
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Languages+%26+Tools;Technologies+I+Use;Building+with+Modern+Technology"
+alt="Languages and Tools Animation"
+/>
+
+</div>
+
+<p align="left">
+
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+alt="Java" width="45" height="45"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+alt="JavaScript" width="45" height="45"/>
+</a>
+
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+alt="TypeScript" width="45" height="45"/>
+</a>
+
+<!-- React -->
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+alt="React" width="45" height="45"/>
+</a>
+
+<!-- HTML -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+alt="HTML5" width="45" height="45"/>
+</a>
+
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+alt="CSS3" width="45" height="45"/>
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+alt="Bootstrap" width="45" height="45"/>
+</a>
+
+<!-- Tailwind -->
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+alt="Tailwind CSS" width="45" height="45"/>
+</a>
+
+<!-- Sass -->
+<a href="https://sass-lang.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+alt="Sass" width="45" height="45"/>
+</a>
+
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+alt="Redux" width="45" height="45"/>
+</a>
+
+<!-- Spring -->
+<a href="https://spring.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+alt="Spring" width="45" height="45"/>
+</a>
+
+<!-- Kafka -->
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
+alt="Apache Kafka" width="45" height="45"/>
+</a>
+
+<!-- GraphQL -->
+<a href="https://graphql.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+alt="GraphQL" width="45" height="45"/>
+</a>
+
+<!-- RabbitMQ -->
+<a href="https://www.rabbitmq.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+alt="RabbitMQ" width="45" height="45"/>
+</a>
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+alt="Redis" width="45" height="45"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+alt="PostgreSQL" width="45" height="45"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+alt="MySQL" width="45" height="45"/>
+</a>
+
+<!-- Oracle -->
+<a href="https://www.oracle.com/database/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+alt="Oracle" width="45" height="45"/>
+</a>
+
+<!-- Kubernetes -->
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+alt="Kubernetes" width="45" height="45"/>
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+alt="Jenkins" width="45" height="45"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+alt="Docker" width="45" height="45"/>
+</a>
+
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+alt="AWS" width="45" height="45"/>
+</a>
+
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+alt="Firebase" width="45" height="45"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+alt="Git" width="45" height="45"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+alt="Linux" width="45" height="45"/>
+</a>
 
 </p>
 
-### 🎨 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,redux" />
-
-</p>
-
-### ⚡ Backend & APIs
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,graphql,rabbitmq,kafka,redis" />
-
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,firebase" />
-
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,git,github" />
-
-</p>
-
 <br>
-
-<!-- ===================== AI ENGINEERING ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,50:312E81,100:06B6D4&height=100&section=header&text=AI%20ENGINEERING&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<br>
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=800&lines=Generative+AI;Large+Language+Models;Retrieval+Augmented+Generation;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
-alt="AI Engineering"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=FFD54F&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Spring+%E2%80%A2+React+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+AWS"
+alt="Technology Stack Animation"
 />
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering Focus
-
-- Generative AI
-- LLMs
-- Prompt Engineering
-- RAG
-- Vector Databases
-- Embeddings
-- AI Agents
-- Tool Calling
-- AI Application Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 AI System Concepts
-
-- Context Engineering
-- Retrieval Pipelines
-- Semantic Search
-- Knowledge Bases
-- Agentic Workflows
-- Function Calling
-- AI + REST APIs
-- AI + Microservices
-- Production AI Systems
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ==================== WHAT I'M BUILDING ================== -->
+## 🤖 AI Engineering
 
 <div align="center">
 
-## 🚀 WHAT I'M BUILDING
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=From+Fundamentals+to+Production;From+Monoliths+to+Microservices;From+APIs+to+Distributed+Systems;From+Software+to+AI-Powered+Applications"
-alt="What I'm Building"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=600&color=00C853&center=true&vCenter=true&width=850&lines=Generative+AI;LLMs;Prompt+Engineering;RAG;Vector+Databases;Embeddings;AI+Agents;Tool+Calling;AI+Application+Architecture"
+alt="AI Engineering Animation"
 />
 
 </div>
 
-<br>
+<p>
 
-<table>
-<tr>
+<strong>Generative AI</strong> •
+<strong>LLMs</strong> •
+<strong>Prompt Engineering</strong> •
+<strong>RAG</strong> •
+<strong>Vector Databases</strong> •
+<strong>Embeddings</strong> •
+<strong>AI Agents</strong> •
+<strong>Tool Calling</strong> •
+<strong>AI Application Architecture</strong>
 
-<td width="50%" valign="top">
-
-### 💻 Full Stack Engineering
-
-- Java Full Stack Applications
-- Spring Boot REST APIs
-- Secure Authentication & Authorization
-- Microservices
-- Event-Driven Systems
-- Kafka Applications
-- RabbitMQ Applications
-- Redis-Based Caching
-- React Applications
-- Cloud-Ready Applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-- AI-Powered Applications
-- RAG-Based Systems
-- AI Agent Applications
-- LLM Applications
-- Vector Search Systems
-- AI APIs
-- AI + Microservices
-- Production-Level AI Systems
-- Distributed AI Applications
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <br>
-
-<!-- ==================== FEATURED PROJECTS ================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:050505,50:312E81,100:06B6D4&height=100&section=header&text=FEATURED%20ENGINEERING%20PROJECTS&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💳 FinTech Digital Payment System
-
-**Credit Card on UPI**
-
-Production-oriented payment processing architecture using:
-
-- Java
-- Spring Boot
-- Microservices
-- REST APIs
-- Spring Security
-- JWT
-- Apache Kafka
-- RabbitMQ
-- Redis
-- PostgreSQL
-
-**Focus:** Secure transactions, asynchronous processing, reconciliation, scalability and distributed architecture.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Application
-
-**Intelligent RAG Platform**
-
-Building an AI application around:
-
-- LLMs
-- RAG
-- Embeddings
-- Vector Databases
-- Semantic Search
-- AI Agents
-- Tool Calling
-- REST APIs
-
-**Focus:** Production-ready AI workflows and intelligent knowledge retrieval.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== GITHUB ANALYTICS ================== -->
 
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2500&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=GITHUB+ANALYTICS"
-alt="GitHub Analytics"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0B2E1A,100:00C853&height=5"
+width="85%"
+alt="Animated Emerald Divider"
+/>
+
+</div>
+
+---
+
+## 🏗️ What I'm Building
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=00C853&center=true&vCenter=true&width=800&lines=Java+Applications;Spring+Boot+REST+APIs;Secure+Systems;Microservices;Event-Driven+Systems;React+Applications;Cloud-Ready+Applications;AI-Powered+Applications;Production-Level+Distributed+Systems"
+alt="What I'm Building Animation"
+/>
+
+</div>
+
+- ☕ Java Full Stack Applications
+- 🚀 Spring Boot REST APIs
+- 🔐 Secure Authentication & Authorization
+- 🧩 Microservices
+- 📨 Event-Driven Systems
+- ⚡ Kafka & RabbitMQ Applications
+- 🚀 Redis-Based Caching
+- ⚛️ React Applications
+- ☁️ Cloud-Ready Applications
+- 🤖 AI-Powered Applications
+- 🔎 RAG-Based Systems
+- 🤝 AI Agent Applications
+- 🏗️ Production-Level Distributed Systems
+
+---
+
+## 📝 Recent Posts
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/mkkarishma-softwaredeveloper" target="_blank">
+<strong>My Java Full Stack + AI Engineering Journey</strong>
+</a>
+<br>
+Documenting my journey from Java fundamentals to production-grade full-stack and AI engineering.
+</li>
+
+</ul>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=FFD54F&center=true&vCenter=true&width=700&lines=Learning+in+Public;Building+in+Public;Sharing+the+Journey"
+alt="Journey Animation"
+/>
+
+</div>
+
+---
+
+## ⚡ Where to Find Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/mkkarishma-softwaredeveloper" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-MK%20Karishma-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=700&color=00C853&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%91%8B;Let's+Learn+Together;Let's+Build+Together;Let's+Grow+Together"
+alt="Connect Animation"
+/>
+
+</div>
+
+---
+
+## ☕ Support My Journey
+
+<p>
+If my projects, notes, or learning journey help you,
+consider supporting me. ❤️
+</p>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=FFD54F&center=true&vCenter=true&width=750&lines=Every+Project+Teaches+Something;Every+Bug+Makes+Me+Better;Every+Challenge+Builds+Experience;Keep+Learning;Keep+Building"
+alt="Motivational Animation"
+/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--          FOOTER            -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=00C853&center=true&vCenter=true&width=850&lines=Thanks+for+Visiting+My+Profile+%F0%9F%91%8B;Keep+Learning.;Keep+Building.;Keep+Engineering.;Never+Stop+Growing."
+alt="Footer Animation"
 />
 
 <br><br>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=MK-KARISHMA&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=A78BFA&text_color=E5E7EB&bg_color=00000000"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-KARISHMA&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=E5E7EB&bg_color=00000000"
-height="180"
-/>
+### 🚀 Learn • Build • Break • Debug • Improve • Scale
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=MK-KARISHMA&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=9CA3AF"
-width="70%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:0B2E1A,100:050505&height=160&section=footer&animation=fadeIn"
+width="100%"
+alt="Animated Emerald Footer"
 />
 
 </div>
-
-<br>
-
-<!-- ================= CONTRIBUTION GRAPH =================== -->
-
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MK-KARISHMA&bg_color=00000000&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
-<br>
-
-<!-- ====================== TROPHIES ========================= -->
-
-<div align="center">
-
-## 🏆 GITHUB ACHIEVEMENTS
-
-<br>
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=MK-KARISHMA&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7"
-width="95%"
-/>
-
-</div>
-
-<br>
-
-<!-- ================= CURRENTLY LEARNING ==================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:050505&height=100&section=header&text=CURRENTLY%20LEARNING&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ☕ Java
-
-Java  
-JVM  
-Collections  
-Concurrency  
-I/O & NIO  
-Advanced Java
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌱 Spring
-
-Spring Boot  
-REST  
-Security  
-JPA / Hibernate  
-Microservices  
-Distributed Systems
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 AI
-
-LLMs  
-RAG  
-Embeddings  
-Vector DBs  
-AI Agents  
-AI Architecture
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== ENGINEERING ROADMAP ============== -->
-
-<div align="center">
-
-## 🧭 ENGINEERING JOURNEY
-
-</div>
-
-```text
-                    ENGINEERING JOURNEY
-
-        ┌───────────────────────────────────┐
-        │        COMPUTER SCIENCE           │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │             JAVA                  │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │        SPRING / SPRING BOOT       │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │        REST / SECURITY / JPA      │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │          MICROSERVICES             │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │      KAFKA / RABBITMQ / REDIS     │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │        REACT / FULL STACK         │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │       CLOUD / DEVOPS / AWS       │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │        GENERATIVE AI             │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │        RAG / AI AGENTS            │
-        └─────────────────┬─────────────────┘
-                          ↓
-        ┌───────────────────────────────────┐
-        │   PRODUCTION AI + DISTRIBUTED    │
-        │             SYSTEMS               │
-        └───────────────────────────────────┘
